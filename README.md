@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Mahmmod</h1>
-<h3 align="center"> I am a passionate cyber security undergraduate. I have good programming skills and have expertise in assembly, SQL, Python, and C/C++ languages. I can perform pen-testing of web applications and websites. I can also Reverse Engineer programs and document the source code. I am an AI and data science, enthusiast.</h3>
+<h3 align="center"> I am a passionate cyber security student. Malware development and analysis is my strong suite. I can perform reverse engineering of malware. I have good programming skills and have expertise in assembly, python, and C/C++ languages. I can perform pen-testing of web applications and websites. I have a good grip of AI for automating tedious tasks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmahmood001&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmahmood001" /> </p>
 
