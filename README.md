@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Mahmmod</h1>
-<h3 align="center"> I am a passionate cyber security student. Malware research and analysis is my strong suite. I can perform reverse engineering of malware. I have good programming skills and have expertise in assembly, python, and C/C++ languages. I can perform pen-testing of web applications and websites. I have a good grip of AI for automating tedious tasks.</h3>
+<h3 align="center"> I am a dedicated and passionate cybersecurity professional with a strong academic background and over three years of industry experience. My expertise spans a diverse range of cybersecurity domains, including malware analysis, reverse engineering, and the development of AI-driven solutions for automating complex and repetitive tasks.
+
+I possess advanced programming skills in Assembly, Python, and C/C++ and have a proven ability to perform penetration testing on web applications and websites. Additionally, I bring valuable hands-on experience in Security Operations Center (SOC) operations and malware research, demonstrating a robust understanding of the cybersecurity landscape and its evolving challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmahmood001&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmahmood001" /> </p>
 
