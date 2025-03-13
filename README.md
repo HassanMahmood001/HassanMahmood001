@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hassan Mahmmod</h1>
-<h3 align="center"> I am a dedicated and passionate cybersecurity professional with a strong academic background and over three years of industry experience. My expertise spans a diverse range of cybersecurity domains, including malware analysis, reverse engineering, and the development of AI-driven solutions for automating complex and repetitive tasks.
+<h3 align="center"> I am a cybersecurity professional specializing in Red Teaming, Penetration Testing (VAPT), and Malware Research & Development, with over three years of experience in offensive security. My expertise lies in simulating sophisticated cyber threats, identifying security vulnerabilities, and strengthening organizational defenses through ethical security assessments.
 
-I possess advanced programming skills in Assembly, Python, and C/C++ and have a proven ability to perform penetration testing on web applications and websites. Additionally, I bring valuable hands-on experience in Security Operations Center (SOC) operations and malware research, demonstrating a robust understanding of the cybersecurity landscape and its evolving challenges.</h3>
+I have extensive hands-on experience in adversary emulation, post-exploitation techniques, and security control evasion. My technical skill set includes Active Directory security assessments, privilege escalation, lateral movement, and advanced attack simulations to evaluate and enhance an organization’s security posture.
+
+In addition to offensive security, I specialize in malware analysis and ethical malware development, focusing on payload creation, behavioral analysis, and evasion techniques to assess detection capabilities and improve threat response. I leverage advanced techniques in reverse engineering and threat intelligence to analyze malware behavior and develop proactive countermeasures against emerging threats.
+
+With a strong foundation in low-level programming, scripting, and security automation, I develop custom security tools and frameworks to enhance testing methodologies and streamline offensive security operations. My work is guided by a commitment to ethical hacking, responsible disclosure, and strengthening cybersecurity resilience through proactive security assessments and strategic risk mitigation.
+
+I am dedicated to helping organizations identify, assess, and remediate security risks by leveraging offensive security techniques in a controlled and ethical manner, ensuring robust protection against evolving cyber threats.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmahmood001&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmahmood001" /> </p>
 
