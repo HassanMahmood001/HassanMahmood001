@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Mahmmod</h1>
-<h3 align="center"> I am a cybersecurity professional specializing in Red Teaming, Penetration Testing (VAPT), and Malware Research & Development, with over three years of experience in offensive security. My expertise lies in simulating sophisticated cyber threats, identifying security vulnerabilities, and strengthening organizational defenses through ethical security assessments.
+<h3 align="center"> Cybersecurity professional specializing in Red Teaming, Penetration Testing (VAPT), and Malware Research & Development, with 3+ years of experience in offensive security. I focus on adversary emulation, post-exploitation, and security control evasion to assess and enhance organizational defenses.
 
-I have extensive hands-on experience in adversary emulation, post-exploitation techniques, and security control evasion. My technical skill set includes Active Directory security assessments, privilege escalation, lateral movement, and advanced attack simulations to evaluate and enhance an organization’s security posture.
-
-In addition to offensive security, I specialize in malware analysis and ethical malware development, focusing on payload creation, behavioral analysis, and evasion techniques to assess detection capabilities and improve threat response. I leverage advanced techniques in reverse engineering and threat intelligence to analyze malware behavior and develop proactive countermeasures against emerging threats.
-
-With a strong foundation in low-level programming, scripting, and security automation, I develop custom security tools and frameworks to enhance testing methodologies and streamline offensive security operations. </h3>
+My expertise includes Active Directory security, privilege escalation, lateral movement, and malware analysis, with a strong emphasis on ethical malware development, reverse engineering, and evasion techniques. Passionate about low-level programming, scripting, and security automation, I develop custom tools and frameworks to advance offensive security research. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmahmood001&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmahmood001" /> </p>
 
