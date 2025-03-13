@@ -25,8 +25,6 @@ With a strong foundation in low-level programming, scripting, and security autom
 <br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanmahmood001&show_icons=true&locale=en" alt="hassanmahmood001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanmahmood001&" alt="hassanmahmood001" /></p>
-
 ## buy-me-a-coffee
 Liked some of my work? Buy me a coffee.
 
