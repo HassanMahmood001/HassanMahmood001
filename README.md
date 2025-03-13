@@ -5,7 +5,7 @@ I have extensive hands-on experience in adversary emulation, post-exploitation t
 
 In addition to offensive security, I specialize in malware analysis and ethical malware development, focusing on payload creation, behavioral analysis, and evasion techniques to assess detection capabilities and improve threat response. I leverage advanced techniques in reverse engineering and threat intelligence to analyze malware behavior and develop proactive countermeasures against emerging threats.
 
-With a strong foundation in low-level programming, scripting, and security automation, I develop custom security tools and frameworks to enhance testing methodologies and streamline offensive security operations. My work is guided by a commitment to ethical hacking, responsible disclosure, and strengthening cybersecurity resilience through proactive security assessments and strategic risk mitigation.</h3>
+With a strong foundation in low-level programming, scripting, and security automation, I develop custom security tools and frameworks to enhance testing methodologies and streamline offensive security operations. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmahmood001&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmahmood001" /> </p>
 
