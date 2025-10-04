@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning **Advanced Red Team Techniques and Threat Simulation**
 - 👯 I'm looking to collaborate on **Cybersecurity Research and Penetration Testing Projects**
 - 💬 Ask me about **Red Teaming, Penetration Testing, Malware Analysis, and Security Automation**
-- 📫 How to reach me **hassan93mehmood@gmail.com**
+- 📫 **Reach Me On:** [LinkedIn](https://linkedin.com/in/hassanmahmood01) | [Email](mailto:hassan93mehmood@gmail.com)
 - ⚡ Fun fact **I hold a Master's degree in Cybersecurity with silver medal for academic excellence**
 
 <h3 align="left">Connect with me:</h3>
@@ -66,9 +66,11 @@
 🏆 <strong>Certified Cybersecurity Analyst (C3SA)</strong><br>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanMahmood001&show_icons=true&locale=en&layout=compact" alt="HassanMahmood001" /></p>
-<br><br><br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HassanMahmood001&show_icons=true&locale=en" alt="HassanMahmood001" /></p>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanMahmood001&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanMahmood001&theme=radical" alt="GitHub Streak">
+</p>
 
 ## buy-me-a-coffee
 Liked some of my work? Buy me a coffee.
